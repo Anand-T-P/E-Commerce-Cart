@@ -1,0 +1,9 @@
+.login-input-cls{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-evenly; */
+}
+.button-cls{
+    display: flex;
+    justify-content: center;
+}

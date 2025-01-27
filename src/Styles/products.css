@@ -1,0 +1,4 @@
+.product-list-cls{
+    display: flex;
+    flex-direction: row;
+}
